@@ -5,5 +5,6 @@ class HelloWorld {
 		System.out.println("something feature");
 		System.out.println("things");
 		System.out.println("old feature");
+		System.out.println("new feature");
 }
 }
